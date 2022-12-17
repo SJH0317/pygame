@@ -1,0 +1,1 @@
+A pygame like Mario ,enjoy it and you can also fix the bug by changing the code
