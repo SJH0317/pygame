@@ -1,0 +1,5 @@
+去官网下载python安装包（必须为python3.10版本）点击下载好的文件 一直继续（记得选择add python 3.10 to PATH）
+打开pycharm(自行下载)
+win键+r 输入cmd 然后输入pip install 然后把whl文件拖进来然后enter之后输入python 如果成功然后输入import pygame 如何显示成功说明安装成功
+打开pycharm open选择文件夹里的.py文件打开后点击FIle点击setting找到project:noc.py点击python interpreter然后双击pygame再点击install package然后点击ok
+在代码中右键选择Run 'noc'然后就可以了
